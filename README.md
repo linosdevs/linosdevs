@@ -10,6 +10,7 @@
 ## 🧰 Tecnologías
 - Python
 - PyQt6
+- PostgreSQL
 - MySQL
 - Git / GitHub
 
